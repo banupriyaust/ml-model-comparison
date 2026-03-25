@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+~$*
+
+# Database (too large for git)
+database/*.db
+
+# Model binaries (large files)
+ml_model/comparison_results/*.joblib
+ml_model/comparison_results/best_*_keras/
+
+# Byte-compiled
+*.pyc

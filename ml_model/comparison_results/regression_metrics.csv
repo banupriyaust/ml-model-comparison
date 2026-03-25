@@ -1,0 +1,8 @@
+Model,MAE (days),RMSE (days),R2 Score,Training Time (s)
+XGBoost,6.46,7.47,-0.0008,1.8
+Random Forest,6.46,7.47,-0.0007,12.2
+Linear Regression,6.45,7.47,-0.0,0.3
+Gradient Boosting,6.46,7.47,-0.0005,30.1
+FNN (Neural Net),6.46,7.47,-0.0005,12.5
+CNN (1D Conv),6.47,7.48,-0.0028,91.9
+RNN (LSTM),6.5,7.51,-0.0107,121.4

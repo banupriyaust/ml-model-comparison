@@ -1,0 +1,12 @@
+Feature,Importance,Model
+clm_pmt_amt,0.48984690460892655,Random Forest
+cat_carrier,0.3083808844934456,Random Forest
+diagnosis_count,0.0744534370063851,Random Forest
+cat_prescription,0.07207257315082613,Random Forest
+cat_outpatient,0.02610113815020594,Random Forest
+has_secondary_diag,0.01705764283022443,Random Forest
+prvdr_freq,0.006023227560309667,Random Forest
+icd9_freq,0.00449286333163887,Random Forest
+cat_inpatient,0.0010257598392852745,Random Forest
+claim_duration,0.0005455690287523455,Random Forest
+urgency_ordinal,0.0,Random Forest

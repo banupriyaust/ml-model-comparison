@@ -1,0 +1,12 @@
+Feature,Importance,Model
+clm_pmt_amt,0.49827313,XGBoost
+cat_carrier,0.46684375,XGBoost
+cat_outpatient,0.015195294,XGBoost
+cat_prescription,0.014848409,XGBoost
+diagnosis_count,0.0028370537,XGBoost
+cat_inpatient,0.0018446449,XGBoost
+prvdr_freq,0.00013319319,XGBoost
+claim_duration,1.8008868e-05,XGBoost
+icd9_freq,6.4595056e-06,XGBoost
+urgency_ordinal,0.0,XGBoost
+has_secondary_diag,0.0,XGBoost

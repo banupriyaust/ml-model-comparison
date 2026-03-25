@@ -1,0 +1,15 @@
+Model,Task,Primary Metric,Value,Secondary Metric,Secondary Value,Training Time (s)
+XGBoost,Classification,F1 Score,1.0,AUC-ROC,1.0,2.1
+Random Forest,Classification,F1 Score,1.0,AUC-ROC,1.0,5.1
+Logistic Regression,Classification,F1 Score,1.0,AUC-ROC,1.0,6.5
+Gradient Boosting,Classification,F1 Score,1.0,AUC-ROC,1.0,22.3
+FNN (Neural Net),Classification,F1 Score,0.999314421241824,AUC-ROC,0.9998422232868259,12.6
+CNN (1D Conv),Classification,F1 Score,0.9993452829489444,AUC-ROC,0.9999734144576827,195.6
+RNN (LSTM),Classification,F1 Score,0.9863925671226864,AUC-ROC,0.9967478584845118,84.1
+XGBoost,Regression,MAE (days),6.46,R2 Score,-0.0008,1.8
+Random Forest,Regression,MAE (days),6.46,R2 Score,-0.0007,12.2
+Linear Regression,Regression,MAE (days),6.45,R2 Score,-0.0,0.3
+Gradient Boosting,Regression,MAE (days),6.46,R2 Score,-0.0005,30.1
+FNN (Neural Net),Regression,MAE (days),6.46,R2 Score,-0.0005,12.5
+CNN (1D Conv),Regression,MAE (days),6.47,R2 Score,-0.0028,91.9
+RNN (LSTM),Regression,MAE (days),6.5,R2 Score,-0.0107,121.4

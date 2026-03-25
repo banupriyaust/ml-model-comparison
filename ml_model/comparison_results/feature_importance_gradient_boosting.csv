@@ -1,0 +1,12 @@
+Feature,Importance,Model
+clm_pmt_amt,0.9999999999982769,Gradient Boosting
+cat_prescription,1.1833972121065704e-12,Gradient Boosting
+icd9_freq,3.0993387156264873e-13,Gradient Boosting
+diagnosis_count,1.4812826926330872e-13,Gradient Boosting
+claim_duration,7.348072332046405e-14,Gradient Boosting
+cat_carrier,6.347467172888002e-15,Gradient Boosting
+prvdr_freq,1.2375966730706756e-15,Gradient Boosting
+has_secondary_diag,4.10265186960659e-16,Gradient Boosting
+urgency_ordinal,0.0,Gradient Boosting
+cat_inpatient,0.0,Gradient Boosting
+cat_outpatient,-4.418071086831147e-19,Gradient Boosting
