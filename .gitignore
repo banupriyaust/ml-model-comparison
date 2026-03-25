@@ -30,5 +30,12 @@ database/*.db
 ml_model/comparison_results/*.joblib
 ml_model/comparison_results/best_*_keras/
 
+# Anomaly detection outputs (large files)
+anomaly_detection/results/*.joblib
+anomaly_detection/results/*.keras
+anomaly_detection/results/*.npz
+anomaly_detection/results/*.h5
+anomaly_detection/results/*.parquet
+
 # Byte-compiled
 *.pyc
